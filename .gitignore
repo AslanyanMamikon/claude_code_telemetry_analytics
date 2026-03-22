@@ -1,0 +1,5 @@
+output/
+analytics.duckdb
+__pycache__/
+*.pyc
+.DS_Store
